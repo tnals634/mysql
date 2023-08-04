@@ -1,0 +1,19 @@
+{
+  "name": "mysql.nosync",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mysql2": "^3.5.1"
+  },
+  "devDependencies": {
+    "dotenv": "^16.3.1",
+    "jest": "^29.6.1"
+  }
+}
